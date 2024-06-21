@@ -37,7 +37,7 @@
     "@helium/modular-governance-idls": "^0.0.2",
     "@helium/proposal-sdk": "^0.0.2",
     "@helium/transactions": "^3.38.0",
-    "@metaplex-foundation/mpl-bubblegum": "^0.7.0",
+    "@metaplex-foundation/mpl-bubblegum": "^1.0.0",
     "@pythnetwork/client": "^2.8.0",
     "@solana/spl-account-compression": "^0.1.4",
     "angry-purple-tiger": "^1.0.5",
