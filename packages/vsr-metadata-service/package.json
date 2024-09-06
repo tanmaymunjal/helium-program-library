@@ -41,8 +41,8 @@
     "@metaplex-foundation/mpl-token-metadata": "^2.10.0",
     "@solana/spl-account-compression": "^0.1.7",
     "@solana/spl-token": "^0.3.8",
-    "@solana/web3.js": "^1.78.4",
-    "axios": "^1.3.6",
+    "@solana/web3.js": "^1.95.1",
+    "axios": "^1.6.8",
     "bn.js": "^5.2.0",
     "bs58": "^4.0.1",
     "fastify": "^4.13.0"
