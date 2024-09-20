@@ -43,7 +43,7 @@
     "@helium/circuit-breaker-sdk": "^0.6.29",
     "@helium/crypto": "^4.10.2",
     "@helium/data-credits-sdk": "^0.6.29",
-    "@helium/distributor-oracle": "^0.6.29",
+    "@helium/distributor-oracle": "^0.0.1",
     "@helium/fanout-sdk": "^0.6.29",
     "@helium/helium-entity-manager-sdk": "^0.6.29",
     "@helium/helium-sub-daos-sdk": "^0.6.29",
