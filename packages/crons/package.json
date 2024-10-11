@@ -33,7 +33,7 @@
   "dependencies": {
     "@coral-xyz/anchor": "^0.28.0",
     "@helium/account-fetch-cache": "^0.6.29",
-    "@helium/distributor-oracle": "^0.6.29",
+    "@helium/distributor-oracle": "^0.0.1",
     "@helium/fanout-sdk": "^0.6.29",
     "@helium/helium-entity-manager-sdk": "^0.6.29",
     "@helium/helium-sub-daos-sdk": "^0.6.29",
