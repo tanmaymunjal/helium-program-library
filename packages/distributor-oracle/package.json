@@ -38,7 +38,7 @@
     "@fastify/cors": "^8.1.1",
     "@helium/account-fetch-cache": "^0.6.29",
     "@helium/address": "^4.10.2",
-    "@helium/helium-entity-manager-sdk": "^0.6.29",
+    "@helium/helium-entity-manager-sdk": "^0.0.5",
     "@helium/helium-sub-daos-sdk": "^0.6.29",
     "@helium/idls": "^0.6.29",
     "@helium/lazy-distributor-sdk": "^0.6.29",
